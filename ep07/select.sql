@@ -1,0 +1,1 @@
+SELECT * from tb_avg_tempo_entre_vendas_seller
